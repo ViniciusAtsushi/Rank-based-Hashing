@@ -1,0 +1,8 @@
+REPORT:
+
+1. Ranked Features:    1.798000 segundos
+2. Matriz normal[0.1]: 1.253578 segundos
+3. New image search:   0.029872 segundos
+4. Criar Tabelas Hash:   0.450203 segundos
+5. Queries e ordenar pesos:   5.976431 segundos
+6. Euclidean Distance: 0.644896 segundos
